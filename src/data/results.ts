@@ -32,8 +32,8 @@ export const results: Record<string, ResultProfile> = {
     traits: [
       'You enjoy exploring complex technical problems',
       'You have a natural curiosity about how things work',
-      'You're comfortable with ambiguity and theoretical concepts',
-      'You're driven by innovation and breakthroughs'
+      "You're comfortable with ambiguity and theoretical concepts",
+      "You're driven by innovation and breakthroughs"
     ]
   },
   servicenow: {
@@ -58,7 +58,7 @@ export const results: Record<string, ResultProfile> = {
     traits: [
       'You thrive in structured environments with clear guidelines',
       'You enjoy creating order from complexity',
-      'You're focused on practical, efficient solutions',
+      "You're focused on practical, efficient solutions",
       'You excel at understanding and improving business processes'
     ]
   },
@@ -82,10 +82,10 @@ export const results: Record<string, ResultProfile> = {
       'Solutions Architect'
     ],
     traits: [
-      'You're naturally people-oriented and collaborative',
+      "You're naturally people-oriented and collaborative",
       'You understand business needs and customer perspectives',
       'You communicate effectively across technical and non-technical teams',
-      'You're focused on delivering value and improving experiences'
+      "You're focused on delivering value and improving experiences"
     ]
   }
 };

@@ -84,7 +84,7 @@ export const questions: Question[] = [
     id: 'q3',
     type: 'scenario',
     category: 'work-styles',
-    question: 'Imagine you're given a complex project at work. How would you approach it?',
+    question: "Imagine you're given a complex project at work. How would you approach it?",
     icon: Cog,
     choices: [
       {
@@ -176,7 +176,7 @@ export const questions: Question[] = [
     choices: [
       {
         id: 'q6-c1',
-        text: 'Pushing the boundaries of what's technically possible',
+        text: "Pushing the boundaries of what's technically possible",
         value: { ai: 3, servicenow: 1, salesforce: 0 }
       },
       {
